@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://athoyeemaa.dlblog.ru/sitemap.xml
